@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Replace the domain below with the live production domain before publishing.
